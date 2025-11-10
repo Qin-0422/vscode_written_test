@@ -1,0 +1,1 @@
+{"name":"Local: 119","url":"d:\\vscode_written_test\\119.cpp","tests":[{"id":1762774342309,"input":"11\naaabbbbbbbb","output":"aaa bbb bbbbb"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vscode_written_test\\119.cpp","group":"local","local":true}
